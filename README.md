@@ -1,5 +1,9 @@
 # ScreenRecorder
 
+## Description
+Simple Screen recorder app developed with the use of electronJs. The app can capture and record your screen.
+---
+
 ## Author Credits
 Youtube Channel: Fireship
 
@@ -23,7 +27,3 @@ Links: [https://www.youtube.com/watch?v=3yqDxhR2XxE&feature=emb_logo]
 ![image3](https://user-images.githubusercontent.com/69509445/90048996-d0bfe280-dd06-11ea-98d7-124e2120d398.png)
 
 ---
-## Description
-Simple Screen recorder app developed with the use of electronJs. The app can capture and record your screen.
----
-
