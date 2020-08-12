@@ -1,8 +1,8 @@
 # ScreenRecorder
 
 ## Description
-
 Simple Screen recorder app developed with the use of electronJs. The app can capture and record your screen.
+
 ---
 
 ## Author Credits
