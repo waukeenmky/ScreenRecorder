@@ -2,7 +2,7 @@
 
 ![imageApp](https://user-images.githubusercontent.com/69509445/90051097-bc311980-dd09-11ea-9678-93f663993fa2.png)
 
-A simple screen recorder application for you to save and store the video of your work. It may come handy especially when you dont have any other software application for recoreding.
+A simple screen recorder application for you to save and store the video of your work. It may come handy especially when you dont have any other software application for recording.
 
 ## Built With
 * ElectronJS
