@@ -1,22 +1,36 @@
-# ScreenRecorder
+# The Project
 
-## Description
-Simple Screen recorder app developed with the use of electronJs. The app can capture and record your screen.
+![imageApp](https://user-images.githubusercontent.com/69509445/90051097-bc311980-dd09-11ea-9678-93f663993fa2.png)
 
----
+A simple screen recorder application for you to save and store the video of your work. It may come handy especially when you dont have any other software application for recoreding.
 
+## Built With
+* ElectronJS
+* Javascript
+* CSS
+
+## Setup and Installation
+1. Clone the Repo
+
+```bash
+    git clone https://github.com/your_username_/Project-Name.git
+```
+2. Make sure to go to the root directory
+```bash
+   cd ScreenRecorderApp
+```
+3. Install NPM Packages
+```bash
+    npm install electron --save
+```
+4. Run the Application
+```bash
+    npm start
+```
 ## Author Credits
 Youtube Channel: Fireship
 
 Links: [https://www.youtube.com/watch?v=3yqDxhR2XxE&feature=emb_logo]
-
----
-
-## Setup Instructions
-Youtube Channel: Fireship
-
-Links: [https://www.youtube.com/watch?v=3yqDxhR2XxE&feature=emb_logo]
-
 ---
 
 ## Screenshots
