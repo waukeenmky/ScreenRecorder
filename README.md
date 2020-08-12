@@ -26,5 +26,4 @@ Links: [https://www.youtube.com/watch?v=3yqDxhR2XxE&feature=emb_logo]
 ## Description
 Simple Screen recorder app developed with the use of electronJs. The app can capture and record your screen.
 ---
-Make sure to include your Author credits, setup instructions, screenshot(s) and a short description of your project
 
