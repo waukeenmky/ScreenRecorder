@@ -2,22 +2,22 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hello World!</title>
+    <title>Screen Recorder</title>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script defer src = "render.js"></script>
-
   </head>
   <body>
-
-    <h1> Screen Recorder App</h1>
-    <video></video>
-
-    <button id = "startBtn" class = "button is-primary"> Start </button>
-    <button id = "stopBtn" class = "button is-warning"> Stop </button>
-
+    <h1 id = "mainh1"> Screen Recorder App</h1>
     <hr />
-    <button id = "videoSelectBtn" class ="button is-test"> Choose a Video Source</button>
-
+    <div id = "videoContainer">
+      <video id = "videoMain"></video>
+    </div> 
+    <div id = "btnHolder">
+      <button id = "videoSelectBtn" class ="button is-test"> Choose a Video Source</button>
+      <button id = "startBtn" class = "button is-primary"><span class = "iconSpan"><i class="fa fa-play"></i>  </span> Start </button>
+      <button id = "stopBtn" class = "button is-warning"><span class = "iconSpan"><i class="fa fa-stop"></i></span> Stop </button>
+    </div>
   </body>
 </html>

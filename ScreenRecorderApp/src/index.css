@@ -3,4 +3,73 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
+  overflow: hidden;
+
 }
+html {
+  overflow:   scroll;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
+#mainh1{
+  margin-top: 10px;
+  padding-top:10px;
+  margin-bottom: 10px;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+#videoContainer{
+  margin-left: 20px;
+  position:fixed;
+  width: 100%;
+  background-color: black;
+  height: 360px;
+  position: relative;
+  overflow: hidden;
+}
+
+#videoSelectBtn{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+#btnHolder{
+  width: auto;
+  height: 30px;
+  background-color: gainsboro;
+  margin-left: 20px;
+  position: relative;
+  }
+#videoContainer video{
+    position: absolute;
+   width: 100% !important;
+   height: auto !important;
+   margin-left: 20px;
+}
+  #startBtn{
+    height:30px;
+    background-color: gray;
+    color: white;
+    font-size: 14px;
+    right: 80px;
+    position: absolute;
+    
+  }
+  #stopBtn{
+    height:30px;
+    background-color: gray;
+    color: white;
+    font-size: 14px;
+    right: 0;
+    position: absolute;
+    right: 0px;
+  }
+  .iconSpan{
+    margin-right: 5px;
+  }
+  
+
